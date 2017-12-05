@@ -2,7 +2,7 @@
 
 var react = require('react');
 module.exports = {
-    name: 'core.imports.react',
+    name: 'core.import.react',
     imports: {
         react: react,
         React: react
