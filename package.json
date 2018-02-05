@@ -1,10 +1,10 @@
 {
-  "name": "core.imports.react",
-  "version": "0.1.5",
-  "description": "frontend toolchain",
+  "name": "core.import.react",
+  "version": "0.1.6",
+  "description": "imports React JS",
   "main": "index.js",
   "dependencies": {
-    "react": "^15.4.2"
+    "react": "^16.2.0"
   },
   "scripts": {},
   "author": "ido-ofir",
