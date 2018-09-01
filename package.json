@@ -1,12 +1,13 @@
 {
-  "name": "core.import.react",
-  "version": "16.2.0",
-  "description": "imports React JS",
-  "main": "index.js",
-  "dependencies": {
-    "react": "^16.2.0"
-  },
-  "scripts": {},
-  "author": "ido-ofir",
-  "license": "ISC"
+    "name": "core.import.react",
+    "version": "16.3.0",
+    "description": "imports React JS",
+    "main": "index.js",
+    "dependencies": {},
+    "peerDependencies": {
+        "react": "^16.3.0"
+    },
+    "scripts": {},
+    "author": "ido-ofir",
+    "license": "ISC"
 }
