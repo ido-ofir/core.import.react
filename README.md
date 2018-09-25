@@ -6,7 +6,7 @@ import <a href="https://reactjs.org/">React</a>
 let core = new require('core.constructor')();
  
 core.plugin(
-    require('core.import.core.import.react')
+    require('core.import.react')
 );
  
 core.imports.React; 
